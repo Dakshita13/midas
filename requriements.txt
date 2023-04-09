@@ -1,0 +1,13 @@
+requests
+numpy
+timm
+torch==1.8.1
+torchvision==0.9.1
+numpy==1.19.5
+Pillow==8.2.0
+opencv-python-headless==4.5.1.48
+scikit-image==0.18.1
+scipy==1.6.3
+tqdm==4.61.0
+midas==0.3.1
+av
